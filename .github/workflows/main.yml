@@ -22,5 +22,5 @@ jobs:
         with:
           server: 'https://captain.cloud.paprikasoft.de'
           password: '${{ secrets.CAPROVER_PASSWORD }}'
-          appname: 'note-test'
+          appname: 'node-test'
           image: docker.pkg.github.com/paprikapulver/node-test/node-test         
